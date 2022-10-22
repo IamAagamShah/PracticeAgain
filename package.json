@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "node": "^19.0.0"
+  },
+  "name": "midtermpractice",
+  "version": "1.0.0",
+  "description": "try to teach ownself",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "author": "AagamShah",
+  "license": "ISC"
+}
